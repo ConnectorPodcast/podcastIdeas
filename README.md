@@ -1,7 +1,7 @@
 # podcast Ideas
 
 The whole point on this podcast is to get more involved in the community and not only on Microsoft world.
-The ideal way to do this would be between Hasan and Myself, we have very diverse background and different ways of seeing and acting on things. I am early in career at Microsoft and Hasan has a vast experience in the tech world. We can benefit from not only working in different areas like Engineering and Product Management, but also from our life experience and encourage growth mentality and lifelong learning culture.
+The ideal way to do this would be between Hassan and Myself, we have very diverse background and different ways of seeing and acting on things. I am early in career at Microsoft and Hasan has a vast experience in the tech world. We can benefit from not only working in different areas like Engineering and Product Management, but also from our life experience and encourage growth mentality and lifelong learning culture.
 
 	• The first couple of episodes would be talking about who we are and what we are trying to accomplish with this, I can imagine the format would be:
 		○ Introduction
